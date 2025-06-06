@@ -28,6 +28,8 @@ Using Python and powerful NLP libraries, the project performs sentiment classifi
 
 t categorizes tweets into Positive, Neutral, or Negative sentiments and visualizes key insights about how the world responded emotionally to one of the biggest sporting events globally.
 
+![Screenshot 2025-06-06 193648](https://github.com/user-attachments/assets/7145d9cf-3758-4475-a282-30e1c7252596)
+
 ## 🎯 Objectives
 
 - Perform sentiment analysis on real-world tweet data using NLP.
